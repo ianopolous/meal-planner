@@ -14,24 +14,24 @@ tags: total-time: 30 minutes, veggie, dinner
 
 * 270 g firm tofu
 * a little plain flour
-* 15 tbsp. peanuts 
+* 15 tbsp peanuts 
 * 150 g instant flat rice noodles
 * 12 shallots
 * 6 garlic cloves
 * 5 red chillis
 * 6 eggs
-* 3/4 tsp. chilli powder
-* 3/4 tsp. ground white pepper
-* 6 tsp. dark soy sauce
-* 1 1/2 tsp. tamarind paste mixed in 6 tsp. water
-* 5 tsp. lime juice
+* 3/4 tsp chilli powder
+* 3/4 tsp ground white pepper
+* 6 tsp dark soy sauce
+* 1 1/2 tsp tamarind paste mixed in 6 tsp water
+* 5 tsp lime juice
 * 12 spring onions
 * 500 g bean sprouts 
 
 #### Sauce (optional)
-* 6 tbsp. rice wine vinegar
-* 4 tbsp. brown sugar
-* 1 tbsp. lime juice
+* 6 tbsp rice wine vinegar
+* 4 tbsp brown sugar
+* 1 tbsp lime juice
 * 1 red chilli
 * 1 green chili
 * salt

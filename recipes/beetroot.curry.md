@@ -16,9 +16,9 @@ tags: total-time: 60 minutes, veggie, dinner, portions: 6
 * 3 garlic cloves
 * 5 red chillis - deseeded
 * 1 lemongrass stalk
-* 1 tsp. cumin seeds
-* 1 tsp. corriander seeds
-* 1 small tsp. fennel seeds
+* 1 tsp cumin seeds
+* 1 tsp corriander seeds
+* 1 small tsp fennel seeds
 * 450 g beetroot 
 * 5 baby aubergine (brinjal)
 * 3 vegetable stock cubes

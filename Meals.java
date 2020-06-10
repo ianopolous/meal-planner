@@ -6,6 +6,9 @@ import java.util.stream.*;
 public class Meals {
 
     public static class Ingredient {
+        public static final Set<String> UNITS = Stream.of("g", "kg", "ml", "cm")
+                .collect(Collectors.toSet());
+
         public final String name;
         public final double amount;
         public final String unit;
@@ -21,7 +24,7 @@ public class Meals {
             String value = String.format("%.1f", amount);
             if (value.endsWith(".0"))
                 value = value.substring(0, value.length() - 2);
-            return value + " " + unit + " " + name;
+            return value + (UNITS.contains(unit) ? "" : " ") + unit + " " + name;
         }
 
         public static Ingredient parse(String line) {

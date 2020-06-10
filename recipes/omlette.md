@@ -12,7 +12,7 @@ tags: total-time: 5 minutes, veggie, dinner
 ### Ingredients
 
 * 2 eggs
-* 2 tsp. butter
+* 2 tsp butter
 * 1 tsp salt
 * 1 tsp pepper
 * 70g cheese (~1.5 handfuls)

@@ -18,15 +18,15 @@ tags: total-time: 2 hours, veggie, dinner
 * 1/2 sweded(250 g)
 * 2 parnips (250 g)
 * 400 g new potatoes
-* 1 tbsp. paprika
-* 1 tbsp. smoked paprika
-* 3 tbsp. tomato puree
+* 1 tbsp paprika
+* 1 tbsp smoked paprika
+* 3 tbsp tomato puree
 * 2 tins chopped tomatoes
 * 3 vegetable stock cubes
 * 1 tin butterbeans
 * 1 red bell pepper
 * 1 yellow bell pepper
-* 1 tsp. mixed herbs
+* 1 tsp mixed herbs
 
 ### Method
 

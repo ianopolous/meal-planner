@@ -21,8 +21,8 @@ tags: total-time: 90 minutes, veggie, dinner
 * 1/2 aubergine
 * 1 potato
 * 2 tomatoes
-* 1/2 tbsp. caster sugar
-* 1 tbsp. tomato puree
+* 1/2 tbsp caster sugar
+* 1 tbsp tomato puree
 * 200 ml water
 
 ### Notes

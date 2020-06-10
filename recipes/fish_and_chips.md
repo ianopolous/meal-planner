@@ -7,7 +7,7 @@ tags: total-time: 25 minutes, fish
 > **Servings:** 2 
 
 ### Ingredients
-* potatoes 1kg
+* 1kg potatoes
 * basa fillets 250g
 * carrots
 * olive oil

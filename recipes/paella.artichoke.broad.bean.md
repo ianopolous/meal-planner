@@ -23,7 +23,7 @@ tags: total-time: 60 minutes, veggie, dinner
 * 1/4 tsp cayrenne pepper
 * 150 g paella rice
 * 100 ml medium sherry
-* 1 tsp. safron threads
+* 1 tsp safron threads
 * 450 ml vegetable stock
 * 200 g frozen broad beans
 * 12 mini plum tomotoes
@@ -41,7 +41,7 @@ tags: total-time: 60 minutes, veggie, dinner
 5. add paella rice and stir thoroughly - fry for 2 minutes
 6. add sherry and saffron
 7. boil for 1 minute to reduce
-8. add stock and 1/3 tsp. salt
+8. add stock and 1/3 tsp salt
 9. reduce heat to a gentle simmer for 20 minutes, or until liquid absorbed - **do not cover pan, or stir the rice**
 10. pour boiling water over frozen broad beans and leave for 1 minute
 11. drain and leave to cool

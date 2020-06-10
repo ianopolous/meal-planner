@@ -22,7 +22,7 @@ tags: total-time: 60 minutes, veggie, dinner
 * 1 tbsp oil
 * 3 stock cubes
 * 4 cloves garlic
-* 1 inch ginger
+* 3cm ginger
 * 1 tsp cumin
 * 0.25 tsp chilli flakes
 * 0.25 tsp cayenne pepper

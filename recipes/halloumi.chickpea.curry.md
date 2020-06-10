@@ -23,7 +23,7 @@ tags: total-time: 30 minutes, veggie, dinner
 * 1 tin chickpeas
 * 180 g halloumi
 * 90g baby spinahc
-* 1 tbps chopped parsley
+* 1 tbsp chopped parsley
 * 1 green bell pepper
 * 1 red bell pepper
 * 1 tin coconut milk
