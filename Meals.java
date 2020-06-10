@@ -65,7 +65,7 @@ public class Meals {
             List<String> tags = lines.stream()
                     .filter(x -> x.startsWith("tags:"))
                     .findFirst()
-                    .map(x -> Arrays.asList(x.split(",")))
+                    .map(x -> Arrays.asList(x.substring(5).trim().split(",")))
                     .orElse(Collections.emptyList());
 
             int servings = lines.stream()
@@ -125,9 +125,11 @@ public class Meals {
             shoppingList.addAll(current.ingredients);
         }
 
+        System.out.println("Meal plan:");
         System.out.println(candidates.subList(0, index).stream()
                 .map(r -> r.name)
                 .collect(Collectors.joining("\n")));
+        System.out.println();
         System.out.println("Shopping list: ");
         System.out.println(combine(shoppingList)
                 .stream()
