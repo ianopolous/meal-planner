@@ -61,6 +61,11 @@ public class Meals {
             this.steps = steps;
             this.tags = tags;
         }
+
+        @Override
+        public String toString() {
+            return name;
+        }
     }
 
     public static Recipe parse(File in) {
@@ -76,7 +81,10 @@ public class Meals {
             List<String> tags = lines.stream()
                     .filter(x -> x.startsWith("tags:"))
                     .findFirst()
-                    .map(x -> Arrays.asList(x.substring(5).trim().split(",")))
+                    .map(x -> Arrays.stream(x.substring(5).trim()
+                            .split(","))
+                            .map(String::trim)
+                            .collect(Collectors.toList()))
                     .orElse(Collections.emptyList());
 
             int servings = lines.stream()
@@ -118,9 +126,11 @@ public class Meals {
         int days = Integer.parseInt(args[1]);
         int people = Integer.parseInt(args[2]);
         List<String> tags = args.length < 4 ? Collections.emptyList() : Arrays.asList(args[3].split(","));
-        List<Recipe> candidates = Arrays.stream(recipesDir.toFile().listFiles())
+        List<Recipe> all = Arrays.stream(recipesDir.toFile().listFiles())
                 .filter(f -> f.getName().endsWith(".txt") || f.getName().endsWith(".md"))
                 .map(Meals::parse)
+                .collect(Collectors.toList());
+        List<Recipe> candidates = all.stream()
                 .filter(r -> tags.isEmpty() || r.tags.stream().anyMatch(t -> tags.stream().anyMatch(t2 -> t2.equals(t))))
                 .collect(Collectors.toList());
         Collections.shuffle(candidates);
