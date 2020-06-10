@@ -144,6 +144,9 @@ public class Meals {
             daysSoFar += (current.servings / people);
             index++;
             shoppingList.addAll(current.ingredients);
+            // if we don't have enough recipes, duplicate
+            if (index == candidates.size())
+                candidates.addAll(candidates);
         }
 
         System.out.println("Meal plan:");
