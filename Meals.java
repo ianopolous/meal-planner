@@ -26,7 +26,18 @@ public class Meals {
 
         public static Ingredient parse(String line) {
             List<String> parts = Arrays.asList(line.substring(2).split(" "));
-            double amount = Double.parseDouble(parts.get(0).replaceAll("[a-zA-Z]]", ""));
+            double amount;
+            try {
+                String raw = parts.get(0).replaceAll("[a-zA-Z/-]", "");
+                boolean half = raw.contains("1/2");
+                boolean quarter = raw.contains("1/4");
+                String fractionless = raw.replaceAll("1/2", "").replaceAll("1/4", "");
+                amount = (fractionless.isEmpty() ? (half || quarter ? 0 : 1) : Double.parseDouble(fractionless)) +
+                        (half ? 0.5 : 0) +
+                        (quarter ? 0.25 : 0);
+            } catch (Exception e) {
+                throw new RuntimeException("Couldn't parse ingredient: " + line, e);
+            }
             String adjacentUnit = parts.get(0).replaceAll("[0-9\\.]", "");
             String unit = adjacentUnit.isEmpty() ? parts.get(1) : adjacentUnit;
             String name = (adjacentUnit.isEmpty() ? parts.stream().skip(2) : parts.stream().skip(1)).collect(Collectors.joining(" "));
@@ -44,7 +55,7 @@ public class Meals {
 
         public Recipe(Path source, String name, int servings, List<Ingredient> ingredients, List<String> steps, List<String> tags) {
             this.source = source;
-            this.name = name;
+            this.name = name.trim();
             this.servings = servings;
             this.ingredients = ingredients;
             this.steps = steps;
@@ -86,8 +97,8 @@ public class Meals {
             List<String> steps = lines.subList(methodStart, lines.size());
 
             return new Recipe(in.toPath(), name, servings, ingredients, steps, tags);
-        } catch (IOException e) {
-            throw new RuntimeException(e);
+        } catch (Exception e) {
+            throw new RuntimeException("Error parsing: " + in.getName(), e);
         }
     }
 
