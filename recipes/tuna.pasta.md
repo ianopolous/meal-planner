@@ -1,12 +1,10 @@
 title: Tuna Pasta
 date:2016-01-01
-tags: total-time: 15 minutes, cuisine: fish, dinner, portions: 2
+tags: total-time: 15 minutes, fish, dinner
 
 > **Time:** 15 minutes.
 
 > **Servings:** 2
-
-> **Calories per serving:** ?
 
 > **Reheating:** Nope.
 

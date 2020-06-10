@@ -1,6 +1,6 @@
 title: Salmon parcels
 date:2016-01-01
-tags: total-time: 60 minutes, cuisine: fish, dinner, portions: 2
+tags: total-time: 60 minutes, fish, dinner
 
 > **Time:** 60 mins
 

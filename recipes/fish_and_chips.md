@@ -1,6 +1,6 @@
 title: Fish and Chips
 date: 2016-01-01
-tags: total-time: 25 minutes, cuisine: fish, dinner portions: 2
+tags: total-time: 25 minutes, fish
 
 > **Time:**  25 minutes
 

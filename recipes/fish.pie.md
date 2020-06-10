@@ -1,6 +1,6 @@
 title:  Fish pie
 date: 2016-01-01
-tags: total-time: 90 minutes, cuisine: veggie, cuisine: fish, portions: 6 
+tags: total-time: 90 minutes, fish
 
 > **Time:** 90 mins
 

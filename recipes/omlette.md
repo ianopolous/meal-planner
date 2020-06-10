@@ -1,6 +1,6 @@
 title: Cheese Omlette
 date: 2016-01-01
-tags: total-time: 5 minutes, cuisine: veggie, dinner, portions: 1
+tags: total-time: 5 minutes, veggie, dinner
 
 > **Time:**  5 minutes
 

@@ -1,6 +1,6 @@
 title:  Orzo Pasta Bake
 date:2016-01-01
-tags: total-time: 90 minutes, cuisine: veggie, dinner, portions: 6
+tags: total-time: 90 minutes, veggie, dinner
 
 > **Time:**  1.5 hours
 

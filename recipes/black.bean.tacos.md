@@ -1,6 +1,6 @@
 title: Black Bean Tacos
 date: 2016-01-01
-tags: total-time: 5 minutes, cuisine: veggie, dinner, portions: 2
+tags: total-time: 5 minutes, veggie, dinner, portions: 2
 
 > **Time:** 5 minutes
 

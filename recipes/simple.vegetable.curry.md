@@ -1,6 +1,6 @@
 title: Vegetable Curry (Simple) 
 date:2016-01-01
-tags: total-time: 60 minutes, cuisine: veggie, dinner
+tags: total-time: 60 minutes, veggie, dinner
 
 > **Time:** ~70 minutes 
 

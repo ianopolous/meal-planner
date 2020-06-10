@@ -1,6 +1,6 @@
 title:  Beetroot Curry
 date:2016-01-01
-tags: total-time: 60 minutes, cuisine: veggie, dinner, portions: 6 
+tags: total-time: 60 minutes, veggie, dinner, portions: 6 
 
 > **Time:** 1 hour (estimate)
 
