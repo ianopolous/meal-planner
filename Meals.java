@@ -31,12 +31,15 @@ public class Meals {
                 String raw = parts.get(0).replaceAll("[a-zA-Z-]", "");
                 boolean half = raw.contains("1/2");
                 boolean quarter = raw.contains("1/4");
+                boolean eighth = raw.contains("1/8");
                 String fractionless = raw.replaceAll("1/2", "")
                         .replaceAll("1/4", "")
+                        .replaceAll("1/8", "")
                         .replaceAll("/", "");
                 amount = (fractionless.isEmpty() ? (half || quarter ? 0 : 1) : Double.parseDouble(fractionless)) +
                         (half ? 0.5 : 0) +
-                        (quarter ? 0.25 : 0);
+                        (quarter ? 0.25 : 0) +
+                        (eighth ? 0.125 : 0);
             } catch (Exception e) {
                 throw new RuntimeException("Couldn't parse ingredient: " + line, e);
             }
@@ -66,7 +69,7 @@ public class Meals {
 
         @Override
         public String toString() {
-            return name;
+            return name + " (" + servings + ")";
         }
     }
 
@@ -153,7 +156,7 @@ public class Meals {
 
         System.out.println("Meal plan:");
         System.out.println(candidates.subList(0, index).stream()
-                .map(r -> r.name)
+                .map(Object::toString)
                 .collect(Collectors.joining("\n")));
         System.out.println();
         System.out.println("Shopping list: ");
