@@ -106,7 +106,7 @@ public class Meals {
         Path recipesDir = Paths.get(args[0]);
         int days = Integer.parseInt(args[1]);
         int people = Integer.parseInt(args[2]);
-        List<String> tags = args.length < 4 ? Collections.emptyList() : Arrays.asList(args[3].split("\\."));
+        List<String> tags = args.length < 4 ? Collections.emptyList() : Arrays.asList(args[3].split(","));
         List<Recipe> candidates = Arrays.stream(recipesDir.toFile().listFiles())
                 .filter(f -> f.getName().endsWith(".txt") || f.getName().endsWith(".md"))
                 .map(Meals::parse)
