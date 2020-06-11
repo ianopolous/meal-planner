@@ -22,12 +22,12 @@ tags: total-time: 30 minutes, veggie, dinner
 * 1 tin tomoatoes
 * 1 tin chickpeas
 * 180 g halloumi
-* 90g baby spinahc
+* 90g baby spinach
 * 1 tbsp chopped parsley
 * 1 green bell pepper
 * 1 red bell pepper
 * 1 tin coconut milk
-* 2 stock cubes
+* 2 veg. stock cubes
 
 ### Method
 

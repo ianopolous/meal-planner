@@ -19,7 +19,7 @@ tags: total-time: 90 minutes, veggie, dinner
 * 1 tin chickpeas
 * 1 tin butterbeans
 * 225 g yellow split peas
-* 2 litres vegetable stock
+* 2L vegetable stock
 * 35 g parsley - chopped
 * 15 g corriander - chopped
 * 15 g dill chopped

@@ -24,7 +24,7 @@ tags: total-time: 60 minutes, veggie, dinner
 * 150 g paella rice
 * 100 ml medium sherry
 * 1 tsp safron threads
-* 450 ml vegetable stock
+* 0.5L vegetable stock
 * 200 g frozen broad beans
 * 12 mini plum tomotoes
 * 5 grilled artichokes (jar, in oil) - drained and quartered

@@ -19,7 +19,7 @@ tags: total-time: 90 minutes, veggie, dinner
 * 6 garlic cloves
 * 500g orzo pasta
 * 2 tbsp tomato puree
-* 380 ml vegetable stock
+* 0.4L vegetable stock
 * 1 tbsp thyme
 * 1 lemon
 * 240 g block mozarella

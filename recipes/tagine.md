@@ -22,7 +22,7 @@ tags: total-time: 45 minutes, veggie, dinner
 * 50g dried apricots 
 * 400g chopped tomatoes
 * 400g chickpeas
-* 3 cubes veg. stock
+* 3 veg. stock cubes
 * 2 tsp ginger
 * 2 tsp coriander
 * 2 tsp cumin

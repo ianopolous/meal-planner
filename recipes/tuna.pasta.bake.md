@@ -25,7 +25,7 @@ tags: total-time: 30 minutes, fish, dinner
 * 1/2 tsp hot chilli powder
 * 1 tsp mixed herbs 
 * 1 tsp paprika
-* 2 veg. stockcubes dissolved in 150ml hot water
+* 2 veg. stock cubes
 * salt
 * pepper
 * 1 tsp lemon juice
@@ -39,7 +39,7 @@ tags: total-time: 30 minutes, fish, dinner
 
 1. Chop and fry all vegetables for 5 minutes.
 2. Add garlic and spices for 1 minute.
-3. Add tomotoes and vegetable stock.
+3. Add tomatoes and vegetable stock with 150ml water.
 4. Bring to boil, simmer for 10 minutes.
 5. Boil pasta.
 6. Add tuna and pasta to sauce.

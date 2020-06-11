@@ -18,7 +18,7 @@ tags: total-time: 60 minutes, veggie, dinner
 * 3 bell peppers
 * 200g frozen peas
 * 2 large potatoes
-* 5 vegetable stock cubes dissolved in 250 ml hot  water
+* 5 veg. stock cubes
 * 1 can coconut milk
 
 
@@ -37,6 +37,6 @@ tags: total-time: 60 minutes, veggie, dinner
 
 1. mix all paste ingredients together in a bowl and set aside
 2. fry all veg. except peas and potatoes for 8 minutes
-3. add peas, potatoes and paste, heat for  -5 minutes
-4. add veg stock and coconut milk, make sure vegetbales just covered with liquid
+3. add peas, potatoes and paste, heat for -5 minutes
+4. add veg stock, 250ml water and coconut milk, make sure vegetbales just covered with liquid
 5. cover and simmer for 30 minutes

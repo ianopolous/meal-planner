@@ -19,7 +19,7 @@ tags: total-time: 45 minutes, veggie, dinner
 * 1 tsp ground cinnamon (or 1 stick)
 * 2 star anise
 * 100ml soy sauce
-* 2 veg. stock cubes in 150ml water
+* 2 veg. stock cubes
 * 400g can chick peas
 * 1 sweet potato (200g)
 * 2 normal potatoes (300g)
@@ -38,7 +38,7 @@ tags: total-time: 45 minutes, veggie, dinner
 5. fry another 5 mins.
 6. add spices
 7. fry another 5 mins.
-8. add soy sauce, stock and chick peas
+8. add soy sauce, stock, 150ml water and chick peas
 9. bring to boil, simmer 10 mins.
 10. drain poatoes and mash with milk and butter (this is topping)
 11. add mushroom mis to casserole dish

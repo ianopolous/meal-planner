@@ -18,7 +18,7 @@ tags: total-time: 60 minutes, veggie, dinner
 * 1 tsp mild chilli powder 
 * 1 tsp hot chilli powder 
 * 1 tsp chilli flakes **or** 2 chillis with seeds
-* 4 veggie stock cubes + 300 ml water
+* 4 veg. stock cubes
 * 2 400g cans chopped tomatoes
 * 2 400g cans kidney beans
 
@@ -31,6 +31,6 @@ tags: total-time: 60 minutes, veggie, dinner
 1. finely chop garlic and onion; fry for 5 minutes 
 2. chop peppers small and fry for ~ 10 minutes until soft
 3. add chilli powder and flakes / chopped chillis
-4. add stock, chopped tomatoes & drained kidney beans
+4. add stock, 300ml water, chopped tomatoes & drained kidney beans
 5. simmer ~ 45 minutes until reduced, stirring occasionally
 6. serve with rice 

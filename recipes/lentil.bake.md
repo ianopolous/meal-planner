@@ -22,7 +22,7 @@ tags: total-time: 90 minutes, veggie, dinner
 * worcester sauce
 * tabasco
 * splash  balsamic vinegar
-* 2 cubes veg stock dissolved in 100ml hot water
+* 2 veg. stock cubes
 * 1 bay leaf
 * 1 sprig fresh rosemary
 * handful fresh  parsely
@@ -41,7 +41,7 @@ tags: total-time: 90 minutes, veggie, dinner
 2. boil potatoes and set aside
 3. fry onion and carrots in oil, 5 mins
 4. add celery and peas, 5 mins
-5. add tabasco, worcester, balsamic, herbs, stock and red wine
+5. add tabasco, worcester, balsamic, herbs, stock, 100ml water and red wine
 6. add tomatoes and lentils 
 7. simmer 30 mins
 8. pour mix into oven dish

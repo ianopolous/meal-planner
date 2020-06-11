@@ -20,7 +20,7 @@ tags: total-time: 20 minutes, veggie, dinner, soup
 * 400g tin green lentils
 * 400g tin chopped tomatoes
 * 2 tbsp tomato paste
-* 2 cubes veg stock in 100ml water
+* 2 veg. stock cubes
 * 1/2 tsp paprika
 * 1/2 tsp chilli flakes
 * 1/2 tsp thyme
@@ -31,7 +31,7 @@ tags: total-time: 20 minutes, veggie, dinner, soup
 
 1. Sautee the onions, leek and garlic with olive oil, salt, pepper , thyme and cumin for 20 minutes.
 2. Add chopped celery and carrots, cook for 10 minutes.
-3. Add everything else.
-4. Cover andbring to boil with water.
+3. Add everything else and 100ml water.
+4. Cover and bring to boil with water.
 5. Reduce heat, simmer 1 hour.
 

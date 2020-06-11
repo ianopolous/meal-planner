@@ -27,7 +27,7 @@ tags: total-time: 90 minutes, veggie, dinner
 * 1 sprig oregano
 * 1 sprig basil
 * 300g lasagna sheets
-* 1 cube vegetable stock in 100 ml water
+* 1 veg. stock cube
 
 ### Notes
 
@@ -42,7 +42,7 @@ tags: total-time: 90 minutes, veggie, dinner
 4. fry chopped onion for 3 minutes
 5. add garlic and coarrot and fry for 5 minutes
 6. add basil and a few chilli flakes
-7. add wine, tinned tomoatoes and stock 
+7. add wine, tinned tomoatoes and stock with 100ml water
 8. simmer for 20 minutes
 9. melt butter in a new pan
 10. slowly add flour while continuously whisking mixture

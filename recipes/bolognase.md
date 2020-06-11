@@ -18,7 +18,7 @@ tags: total-time: 40 minutes, veggie, dinner
 * 1 stick celery
 * 2 cloves garlic
 * 2 400g tins chopped tomatoes
-* 1 cube vegetable stock
+* 1 veg. stock cube
 * 2 tbsp tomato puree
 * 1 tsp mixed herbs
 * 1 tsp basil
