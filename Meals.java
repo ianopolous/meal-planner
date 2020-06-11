@@ -147,6 +147,7 @@ public class Meals {
                 .collect(Collectors.toList());
         List<Recipe> candidates = all.stream()
                 .filter(r -> tags.isEmpty() || r.tags.stream().anyMatch(t -> tags.stream().anyMatch(t2 -> t2.equals(t))))
+                .filter(r -> r.servings >= people)
                 .collect(Collectors.toList());
         Collections.shuffle(candidates);
 
