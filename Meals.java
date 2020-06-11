@@ -118,8 +118,15 @@ public class Meals {
         }
     }
 
+    private static String toSinglular(String in) {
+        if (in.endsWith("s"))
+            return in.substring(0, in.length() - 1);
+        return in;
+    }
+
     private static List<Ingredient> combine(List<Ingredient> in) {
-        Map<String, List<Ingredient>> grouped = in.stream().collect(Collectors.groupingBy(i -> i.unit + i.name));
+        Map<String, List<Ingredient>> grouped = in.stream()
+                .collect(Collectors.groupingBy(i -> toSinglular(i.unit + i.name)));
         return grouped.values().stream()
                 .map(same -> new Ingredient(same.get(0).name, same.stream().mapToDouble(x -> x.amount).sum(), same.get(0).unit))
                 .collect(Collectors.toList());
