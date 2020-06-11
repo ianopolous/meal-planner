@@ -17,7 +17,7 @@ tags: total-time: 30 minutes, fish, dinner
 * 8 tbsp soy sauce
 * 4 tbsp mirin
 * 1 large onion
-* 4-6 fillets salmon, largely flaked
+* 6 fillets salmon, largely flaked
 * 8 eggs
 * bunch spring onions
 
