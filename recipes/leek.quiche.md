@@ -16,9 +16,7 @@ tags: total-time: 60 minutes, veggie, dinner
 * 3 eggs
 * 300ml milk 
 * 190g gruyere cheese *optional*
-* either 
-    * premade short-crust pastry **or**
-    * plain flour & butter
+* premade short-crust pastry **or** plain flour & butter
 
 ### Notes
 * max calorific. 
