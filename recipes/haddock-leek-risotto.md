@@ -5,7 +5,7 @@ tags: haddock,fish,dinner
 > **Servings:** 3
 
 ### Ingredients
-* small knob of butter
+* 1 knob of butter
 * 1 large leek, thinly sliced
 * 300g risotto rice, such as arborio or carnaroli
 * 700ml fish or vegetable stock
