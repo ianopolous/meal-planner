@@ -1,5 +1,4 @@
-title: Tuna pasta bake 
-date:2016-01-01
+# Tuna pasta bake 
 tags: total-time: 30 minutes, fish, dinner 
 
 > **Time:** 30 mins

@@ -1,5 +1,4 @@
-title:  Root Vegetable Goulash
-date: 2016-01-01
+# Root Vegetable Goulash
 tags: total-time: 2 hours, veggie, dinner
 
 > **Time:** 2.5 hours 

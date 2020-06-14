@@ -1,5 +1,4 @@
-title: Tuna Pasta
-date:2016-01-01
+# Tuna Pasta
 tags: total-time: 15 minutes, fish, dinner
 
 > **Time:** 15 minutes.

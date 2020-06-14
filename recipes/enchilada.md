@@ -1,5 +1,4 @@
-title: Enchiladas
-date: 2016-01-01
+# Enchiladas
 tags: total-time: 90 minutes, veggie, dinner
 
 > **Time:** 90 mins

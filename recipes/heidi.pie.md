@@ -1,5 +1,4 @@
-title:  Heidi Pie
-date:2016-01-01
+# Heidi Pie
 tags: total-time: 90 minutes, veggie, dinner
 
 > **Time:**  90 minutes

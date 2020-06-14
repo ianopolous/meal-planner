@@ -1,5 +1,4 @@
-title:  Peanut Stew 
-date:2016-01-01
+# Peanut Stew 
 tags: total-time: 60 minutes, veggie, dinner
 
 > **Time:** 60 mins

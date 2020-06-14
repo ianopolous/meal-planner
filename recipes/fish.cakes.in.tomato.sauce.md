@@ -1,5 +1,4 @@
-title:  Fish cakes in tomato sauce
-date:2016-01-01
+# Fish cakes in tomato sauce
 tags: total-time: 60 minutes, fish, dinner
 
 > **Time:** 60 minutes

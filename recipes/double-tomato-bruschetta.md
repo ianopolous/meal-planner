@@ -1,5 +1,4 @@
 # Double tomato bruschetta
-
 tags: starter,veggie
 
 > **Servings:** 4

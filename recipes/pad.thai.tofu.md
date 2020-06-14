@@ -1,5 +1,4 @@
-title:  Pad Thai with Tofu
-date:2016-01-01
+# Pad Thai with Tofu
 tags: total-time: 30 minutes, veggie, dinner
 
 > **Time:** 30 minutes (esimate)

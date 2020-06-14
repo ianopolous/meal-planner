@@ -1,5 +1,4 @@
-title: Spaghetti bolognase with quorn 
-date: 2016-01-01
+# Spaghetti bolognase with quorn 
 tags: total-time: 40 minutes, veggie, dinner
 
 > **Time:** 40 mins.

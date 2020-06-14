@@ -1,5 +1,4 @@
-title:  Prawn Stir Fry
-date: 2016-01-01
+# Prawn Stir Fry
 tags: total-time: 15 minutes, fish, dinner
 
 > **Servings:** 2 

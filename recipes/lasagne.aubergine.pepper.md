@@ -1,5 +1,4 @@
-title:  Lasagne with aubergine and peppers
-date:2016-01-01
+# Lasagne with aubergine and peppers
 tags: total-time: 90 minutes, veggie, dinner
 
 > **Time:** 90 minutes 

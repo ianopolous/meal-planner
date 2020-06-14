@@ -1,5 +1,4 @@
-title: Legume Noodle Soup
-date:2016-01-01
+# Legume Noodle Soup
 tags: total-time: 90 minutes, veggie, dinner
 
 > **Time:** 90 mins

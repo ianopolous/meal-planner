@@ -1,5 +1,4 @@
-title: Fish and Chips
-date: 2016-01-01
+# Fish and Chips
 tags: total-time: 25 minutes, fish
 
 > **Time:**  25 minutes

@@ -1,5 +1,4 @@
 # Butternut Squash and Sweet Potato Soup
-
 tags: veggie, dinner, soup
 
 > **Servings:** 6

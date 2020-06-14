@@ -1,5 +1,4 @@
-title: Ratatouille
-date:2016-01-01
+# Ratatouille
 tags: total-time: 90 minutes, veggie, dinner
 
 > **Time:** 1.5 - 2 hours

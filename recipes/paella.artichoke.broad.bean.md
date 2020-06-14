@@ -1,5 +1,4 @@
-title:  Paella with Artichoke and Broad Beans
-date:2016-01-01
+# Paella with Artichoke and Broad Beans
 tags: total-time: 60 minutes, veggie, dinner
 
 > **Time:** 1 hour (estimate) 

@@ -1,5 +1,4 @@
-title: Lentil soup 
-date: 2016-01-01
+# Lentil soup 
 tags: total-time: 20 minutes, veggie, dinner, soup
 
 > **Time:** 20 minutes.

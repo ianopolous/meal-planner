@@ -1,5 +1,4 @@
-title: Salmon Donburi
-date:2016-01-01
+# Salmon Donburi
 tags: total-time: 30 minutes, fish, dinner
 
 > **Time:** 20-30 mins

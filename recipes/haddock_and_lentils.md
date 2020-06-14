@@ -1,5 +1,4 @@
-title: Smoked Haddock and Lentils
-date: 2016-01-01
+# Smoked Haddock and Lentils
 tags: total-time: 15 minutes, fish, dinner
 
 > **Servings:** 2 

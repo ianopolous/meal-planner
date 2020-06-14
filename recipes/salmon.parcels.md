@@ -1,5 +1,4 @@
-title: Salmon parcels
-date:2016-01-01
+# Salmon parcels
 tags: total-time: 60 minutes, fish, dinner
 
 > **Time:** 60 mins

@@ -1,5 +1,4 @@
-title: Leek & Mushroom Quiche 
-date: 2016-01-01
+# Leek & Mushroom Quiche 
 tags: total-time: 60 minutes, veggie, dinner
 
 > **Time:** 50 mins.

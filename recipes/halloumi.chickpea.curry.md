@@ -1,5 +1,4 @@
-title:  Halloumi and chickpea curry
-date: 2016-01-01
+# Halloumi and chickpea curry
 tags: total-time: 30 minutes, veggie, dinner
 
 > **Time:** 30 mins

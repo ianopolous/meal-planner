@@ -1,5 +1,4 @@
 # Smoked haddock & leek risotto
-
 tags: haddock,fish,dinner
 
 > **Servings:** 3

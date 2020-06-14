@@ -1,5 +1,4 @@
-title: Vegetable tagine 
-date:2016-01-01
+# Vegetable tagine 
 tags: total-time: 45 minutes, veggie, dinner
 
 > **Time:** 45 mins

@@ -1,5 +1,4 @@
-title:  Fish pie
-date: 2016-01-01
+# Fish pie
 tags: total-time: 90 minutes, fish
 
 > **Time:** 90 mins

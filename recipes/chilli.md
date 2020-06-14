@@ -1,5 +1,4 @@
-title:  Vegetable Chilli 
-date: 2016-01-01
+# Vegetable Chilli 
 tags: total-time: 60 minutes, veggie, dinner
 
 > **Time:** 60 mins

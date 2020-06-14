@@ -1,5 +1,4 @@
-title: Quorn Cottage Pie
-date: 2016-01-01
+# Quorn Cottage Pie
 tags: total-time: 90 minutes, veggie, dinner
 
 > **Time:** 90-100 minutes

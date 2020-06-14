@@ -1,5 +1,4 @@
-title: Mushroom Bake (like Cottage Pie)
-date: 2016-01-01
+# Mushroom Bake (like Cottage Pie)
 tags: total-time: 45 minutes, veggie, dinner
 
 > **Time:** 45
