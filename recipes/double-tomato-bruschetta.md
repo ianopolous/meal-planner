@@ -3,7 +3,7 @@ tags: starter,veggie
 
 > **Servings:** 4
 
-### Ingredients:
+### Ingredients
 * 6 roma (plum) tomatoes, chopped
 * 1/2 cup sun-dried tomatoes, packed in oil
 * 3 cloves minced garlic
@@ -15,7 +15,7 @@ tags: starter,veggie
 * 1 French baguette
 * 2 cups shredded mozzarella cheese
 
-### Method:
+### Method
 Prep: 15 m
 Cook: 7 m
 Ready In: 35 m
